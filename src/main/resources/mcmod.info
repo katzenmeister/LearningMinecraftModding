@@ -1,0 +1,16 @@
+[
+{
+    "modid": "FirstMod",
+    "name": "First Mod",
+    "description": "My first mod for minecraft"
+    "mcversion": "1.10",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [ "katzenmeister"],
+    "credits": "Authored by katzenmeister",
+    "logoFile": "",
+    "screenshots": [],
+    "parent": "",
+    "dependencies": [],
+}
+]
